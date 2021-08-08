@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="colorPrimary">#ff292929</color>
+    <color name="colorPrimaryDark">#ff292929</color>
+    <color name="colorAccent">#FFFFFF</color>
+	<color name="colorText">#ffffffff</color>
+	<color name="mp4Color">#4CAF50</color>
+	<color name="mp3Color">#03A9F4</color>
+</resources>
